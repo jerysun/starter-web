@@ -8,8 +8,10 @@ This example is to show different parts of the Git repository and various comman
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for Git training demos.
 
 ## Deployment
+
+This is a simple web project, deploymnet can be on any web server.
 
 ## How To Contribute
