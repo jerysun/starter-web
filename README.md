@@ -15,3 +15,7 @@ Sample website with plenty of files for Git training demos.
 This is a simple web project, deploymnet can be on any web server.
 
 ## How To Contribute
+
+### Copyright
+
+2014 Git. Training
