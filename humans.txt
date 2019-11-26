@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jerry Sun j@hotmail.com
 
 # THANKS
 
